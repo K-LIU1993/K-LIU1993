@@ -13,7 +13,7 @@ __Education equity, one lesson at a time.__ Ten years of classrooms across four 
 - **[Bloom English](https://github.com/K-LIU1993/bloom-english)** — Gamified Grade-1 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶
 - **[Phonics Game](https://github.com/K-LIU1993/phonics-game)** — Free, zero-install phonics games for ages 5–8, because learning shouldn't need a flagship phone. `HTML` <br> 免安装自然拼读游戏：学习不该需要一台旗舰手机
 - **[Guiyi-Universe 归一](https://github.com/K-LIU1993/Guiyi-Universe)** — One question, one world: a 3D knowledge universe for curious kids. `JavaScript` <br> 一问一世界：基于 Three.js 的 3D 知识探索宇宙
-- **[Done&Go 探戈](https://github.com/K-LIU1993/Done-Go)** — A local-first layer for time sovereignty: requests don't auto-become commitments, AI guesses don't become facts, and unbooked time stays yours. `TypeScript` <br> 本地优先的时间主权层：请求不等于承诺，AI 推测不等于事实，留白的时间属于人
+- **[Done&Go 探戈](https://github.com/K-LIU1993/Done-Go)** — All our lives, we dance with time — alone or amid the noise, in sorrow or in joy. AI moves ever faster: while many were still finding their way around Doubao, the AGI era arrived, Dots emerged, Instinct shipped. As you dance with the times, my Done&Go Tango helps you keep pace — facing what you don't yet know about AI, and embracing what a new era teaches you. `TypeScript` <br> 有生之年，我们都在与时间共舞——或孤独、或喧嚣、或悲伤、或欢欣。AI 发展得太快，快到很多人还只是在用豆包的时候，AGI 时代就到了，Dots 出来了，Instinct 发布了。在与时代共舞的时候，我的 Done&Go 探戈能帮你跟上时代的脚步——直面自己对 AI 的不熟悉，拥抱自己对新时代的新认知。
 - **Mandarin Start 汉语启蒙** — *in design*: daily 10-minute Mandarin missions for overseas kids aged 5–8, heritage track leading to GCSE. <br> *设计中*：海外 5–8 岁儿童每日 10 分钟汉语任务，进步轨道直通 GCSE
 
 #### Research · 研究
