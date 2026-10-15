@@ -4,16 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
 [![Portfolio](https://img.shields.io/badge/Papers-Learning%20Design%20Portfolio-2496ED?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/K-LIU1993/learning-design-portfolio)
 
-__Education equity, one lesson at a time.__ Ten years of classrooms across four countries taught me what good learning feels like — now I build and research AI-powered learning tools so that any child can have it, not just the lucky ones. / __教育公平，一课一课推进。__ 在四个国家教了十年书，我知道好的学习长什么样——现在我用 AI 做学习和研究的工具，让每个孩子都够得着它，而不只是幸运的那几个。
+__Education equity, one lesson at a time.__ Ten years of classrooms across four countries taught me what good learning feels like — now I build and research AI-powered learning tools so that any child can have it, not just the lucky ones. 
+__教育公平，一课一课推进。__ 在四个国家教了十年书，我知道好的学习长什么样——现在我用 AI 做学习和研究的工具，让每个孩子都够得着它，而不只是幸运的那几个。
 
 `access → play → feedback → mastery → confidence` · `接入 → 玩 → 反馈 → 掌握 → 自信`
 
 #### Building · 在做
 
 - [Bloom English](https://github.com/K-LIU1993/bloom-english)
-  — Gamified Grade-1 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶
+  — Gamified Grade-1-9 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
 - [Phonics Game](https://github.com/K-LIU1993/phonics-game)
-  — Free, zero-install phonics games for ages 5–8, because learning shouldn't need a flagship phone. `HTML` <br> 免安装自然拼读游戏：学习不该需要一台旗舰手机
+  — Free, zero-install phonics games for ages 3-5, because learning shouldn't need a flagship phone. `HTML` <br> 免安装自然拼读游戏：学习不该需要一台旗舰手机
 - [Guiyi-Universe 归一](https://github.com/K-LIU1993/Guiyi-Universe)
   — One question, one world: a 3D knowledge universe for curious kids. `JavaScript` <br> 一问一世界：基于 Three.js 的 3D 知识探索宇宙
 - [Done&Go 探戈](https://github.com/K-LIU1993/Done-Go)
